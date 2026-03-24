@@ -1,0 +1,16 @@
+:root {
+  /* Surface & Backgrounds */
+  --bg-main: #FEFCEF;
+  
+  /* Brand Colors */
+  --forest-green: #00503F;
+  
+  /* Button Actions */
+  --btn-primary: #9B9B6D;       /* Button color 1 */
+  --btn-about: #5F4633;         /* About us color */
+  --btn-join: #D1D1AA;          /* Join now color */
+  
+  /* Optional: Contrast Text Colors */
+  --text-on-dark: #FEFCEF;
+  --text-on-light: #00503F;
+}
