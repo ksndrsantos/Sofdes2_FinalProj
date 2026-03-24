@@ -176,7 +176,6 @@ headerBanner: {
     zIndex: 5,
     ...Platform.select({
       web: {
-        top: 30, // Original position for the web
         paddingVertical: 15,
       },
       default: {
